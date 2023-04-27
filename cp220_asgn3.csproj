@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Windows.Forms" Version="5.0.0" />
+    <Compile Include="Peasant.cs" />
+    <Compile Include="MainForm.cs" />
+    <Compile Include="ThreadsAndForms.cs" />
+    <Compile Include="Program.cs" />
+  </ItemGroup>
+
+</Project>

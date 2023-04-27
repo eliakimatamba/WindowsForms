@@ -1,0 +1,5 @@
+/home/atamba/Documents/tasks/Brian/cp220_asgn3/obj/Debug/net7.0/cp220_asgn3.csproj.AssemblyReference.cache
+/home/atamba/Documents/tasks/Brian/cp220_asgn3/obj/Debug/net7.0/cp220_asgn3.GeneratedMSBuildEditorConfig.editorconfig
+/home/atamba/Documents/tasks/Brian/cp220_asgn3/obj/Debug/net7.0/cp220_asgn3.AssemblyInfoInputs.cache
+/home/atamba/Documents/tasks/Brian/cp220_asgn3/obj/Debug/net7.0/cp220_asgn3.AssemblyInfo.cs
+/home/atamba/Documents/tasks/Brian/cp220_asgn3/obj/Debug/net7.0/cp220_asgn3.csproj.CoreCompileInputs.cache

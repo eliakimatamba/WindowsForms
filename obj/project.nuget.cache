@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "3zg7MsBM9li0LadHjceQl2KmCtTPXEK3+OcLpCi4jf5H/Ljp9dg4FoZicJUVOiijwETF5v6SYCHS5S0um/p3bA==",
+  "success": false,
+  "projectFilePath": "/home/atamba/Documents/tasks/Brian/cp220_asgn3/cp220_asgn3.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1102",
+      "level": "Error",
+      "message": "Unable to find package System.Windows.Forms with version (>= 5.0.0)\n  - Found 1 version(s) in nuget.org [ Nearest version: 4.0.0 ]",
+      "libraryId": "System.Windows.Forms",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}
